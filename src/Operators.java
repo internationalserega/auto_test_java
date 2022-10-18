@@ -1,7 +1,6 @@
 import java.io.IOException;
 
-public class Start {
-
+public class Operators {
 public static void main(String[] args) throws IOException {
 
     int month = 3;
@@ -48,6 +47,6 @@ public static void main(String[] args) throws IOException {
     }
     System.out.println(nonthString);
     }
-};
+}
 
 
